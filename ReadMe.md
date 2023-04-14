@@ -36,10 +36,10 @@ Once your repository is set up, practice what you learned today to create a port
 
 - [x]  A navigation bar with `About`, `Projects`, and `Contact` that link to the corresponding pages
 - [ ]  Gallery of projects created with flexbox - you may use random images in place of project screenshots for now with the random image link: https://picsum.photos/ or you may use images that mean something to you
-- [ ]  Information about you in place of the given placeholder
-- [ ]  A `My Projects` button that links to the projects page
-- [ ]  A `Contact Me` button that links to the contact page
-- [ ]  Links to any social media profiles (Instagram, linkedIn, Twitter) into the footer section of your home page
+- [x]  Information about you in place of the given placeholder
+- [x]  A `My Projects` button that links to the projects page
+- [x]  A `Contact Me` button that links to the contact page
+- [x]  Links to any social media profiles (Instagram, linkedIn, Twitter) into the footer section of your home page
 
 ### Task 3: Stretch Goals
 
@@ -68,6 +68,6 @@ The following goals are designed to stretch your knowledge and may require addit
 
 ## Submission format
 
-- [ ] Connect your repository by copy-pasting its Github URL into the submission slot.
-- [ ] Your submitted URL will always reflect your most recent work pushed to Github.
+- [x] Connect your repository by copy-pasting its Github URL into the submission slot.
+- [x] Your submitted URL will always reflect your most recent work pushed to Github.
 
